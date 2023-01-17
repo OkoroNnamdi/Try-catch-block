@@ -1,0 +1,15 @@
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\bin\Debug\net6.0\tryCatchBlock.exe
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\bin\Debug\net6.0\tryCatchBlock.deps.json
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\bin\Debug\net6.0\tryCatchBlock.runtimeconfig.json
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\bin\Debug\net6.0\tryCatchBlock.dll
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\bin\Debug\net6.0\tryCatchBlock.pdb
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\obj\Debug\net6.0\tryCatchBlock.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\obj\Debug\net6.0\tryCatchBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\obj\Debug\net6.0\tryCatchBlock.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\obj\Debug\net6.0\tryCatchBlock.AssemblyInfo.cs
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\obj\Debug\net6.0\tryCatchBlock.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\obj\Debug\net6.0\tryCatchBlock.dll
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\obj\Debug\net6.0\refint\tryCatchBlock.dll
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\obj\Debug\net6.0\tryCatchBlock.pdb
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\obj\Debug\net6.0\tryCatchBlock.genruntimeconfig.cache
+C:\Users\solan\Desktop\Nnamdi\tryCatchBlock\obj\Debug\net6.0\ref\tryCatchBlock.dll
